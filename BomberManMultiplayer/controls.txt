@@ -1,0 +1,11 @@
+Player 1 (Blue){
+      	movement : w a s d 
+	bomb plant : e
+}
+
+Player 2 (Green){
+      	movement : up left down right 
+	bomb plant :  /  (forward slash or ? key) 
+}
+
+
